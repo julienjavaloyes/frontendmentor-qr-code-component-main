@@ -1,4 +1,28 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - QR code component solution
 
-Using html + sass
-Code is same for desktop / mobile (fixed sized + ventered horiwontally/vertically)
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+
+## Overview
+
+Using html + sass Code is same for desktop / mobile (fixed sized + ventered horiwontally/vertically)
+
+### Screenshot
+
+./127.0.0.1_5500_frontendmentor-qr-code-component-main_index.html.png
+
+### Links
+
+- Live Site URL: https://julienjavaloyes.github.io/frontendmentor-qr-code-component-main/
+
+### Built with
+
+- html
+- saas
