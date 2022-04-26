@@ -1,0 +1,39 @@
+body {
+  background-color: #d6e2f0;
+  font-size: 15px;
+  font-family: 'Outfit', sans-serif;
+}
+
+.container {
+  width: 270px;
+  padding: 15px;
+  background-color: white;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  border-radius: 4%;
+}
+
+.container .hero {
+  color: #1f3251;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.container .details {
+  padding-left: 10px;
+  padding-right: 10px;
+  font-weight: 400;
+  color: #7b879d;
+}
+
+.container img {
+  width: 100%;
+  border-radius: 4%;
+}
+/*# sourceMappingURL=main.css.map */

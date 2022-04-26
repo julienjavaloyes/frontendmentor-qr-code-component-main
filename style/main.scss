@@ -1,0 +1,43 @@
+// colour
+$colorwhite: hsl(0, 0%, 100%);
+$colorLight: hsl(212, 45%, 89%);
+$colorGrayish:  hsl(220, 15%, 55%);
+$colorDark:  hsl(218, 44%, 22%);
+
+body {
+    background-color: $colorLight;
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.container{
+    width: 270px;
+    padding: 15px;
+    background-color: $colorwhite;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    border-radius: 4%;
+
+    .hero {
+        color: $colorDark;
+        padding-left: 10px;
+        padding-right: 10px;
+        font-weight: 700;
+        font-size: 20px;
+    }
+    .details {
+        padding-left: 10px;
+        padding-right: 10px;
+        font-weight: 400;
+        color: $colorGrayish;
+    }
+
+    img {
+        width: 100%;
+        border-radius: 4%;
+    }
+}
