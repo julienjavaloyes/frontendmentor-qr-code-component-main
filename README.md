@@ -16,7 +16,7 @@ Using html + sass Code is same for desktop / mobile (fixed sized + ventered hori
 
 ### Screenshot
 
-![screenshot live server desktop](../images/screenshotdesktop.png)
+![ScreenShot](/images/screenshotdesktop.png?raw=true)
 
 ### Links
 
