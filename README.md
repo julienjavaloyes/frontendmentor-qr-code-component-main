@@ -16,7 +16,7 @@ Using html + sass Code is same for desktop / mobile (fixed sized + ventered hori
 
 ### Screenshot
 
-./127.0.0.1_5500_frontendmentor-qr-code-component-main_index.html.png
+![screenshot live server desktop](../images/screenshotdesktop)
 
 ### Links
 
